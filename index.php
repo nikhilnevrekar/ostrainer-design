@@ -118,7 +118,7 @@
 																	</h4>
 																	<div class="post_descr">
 																		<div class="post_price">
-																			<span class="post_price_value"><strike>Rs. 1,00,000</strike> Rs. 60,000/-</span>
+																			<span class="post_price_value"><strike>Rs. 1,00,000</strike> Rs. 9,999/-</span>
 																		</div>
 																		<div class="post_category">
 																			<a href="#">Web Development</a>
@@ -161,7 +161,7 @@
 																	</h4>
 																	<div class="post_descr">
 																		<div class="post_price">
-																			<span class="post_price_value"><strike>Rs. 60,000</strike> Rs. 30,000/-</span>
+																			<span class="post_price_value"><strike>Rs. 60,000</strike> Rs. 6,999/-</span>
 																		</div>
 																		<div class="post_category">
 																			<a href="#">Mobile</a>
@@ -180,7 +180,7 @@
 																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">LEARN MORE</a>
 																				</div>
 																				<div class="post_button">
-																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">BUY NOW</a>
+																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">REGISTER</a>
 																				</div>
 																			</div>
 																		</div>
@@ -203,7 +203,7 @@
 																	</h4>
 																	<div class="post_descr">
 																		<div class="post_price">
-																			<span class="post_price_value"><strike>Rs. 20,000</strike> Rs. 15,000/-</span>
+																			<span class="post_price_value"><strike>Rs. 20,000</strike> Rs. 4,999/-</span>
 																			<!-- <span class="post_price_period">monthly</span> -->
 																		</div>
 																		<div class="post_category">
@@ -223,7 +223,7 @@
 																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">LEARN MORE</a>
 																				</div>
 																				<div class="post_button">
-																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">BUY NOW</a>
+																					<a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">REGISTER</a>
 																				</div>
 																			</div>
 																		</div>

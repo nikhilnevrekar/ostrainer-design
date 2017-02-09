@@ -36,7 +36,13 @@
     <link rel="stylesheet" href="css/slider-style.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="css/custom-style.css" type="text/css" media="all" />
 </head>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3113056057973039",
+    enable_page_level_ads: true
+  });
+</script>
 <body class="home page body_style_fullscreen body_filled article_style_stretch layout_single-standard top_panel_style_dark top_panel_opacity_transparent top_panel_show top_panel_over menu_right user_menu_show sidebar_hide">
     <a id="toc_top" class="sc_anchor" title="To Top" data-description="&lt;i&gt;Back to top&lt;/i&gt; - &lt;br&gt;scroll to top of the page" data-icon="icon-angle-double-up" data-url="" data-separator="yes"></a>
 	<!-- Body -->
@@ -103,7 +109,7 @@
 										</li> -->
 									</ul>
 								</li>
-								<li class="menu-item menu-item-has-children"><a href="#">Blog</a></li>
+								<li class="menu-item menu-item-has-children"><a href="/blog">Blog</a></li>
 							</ul>
 						</nav>
 						<!-- /Navigation -->
