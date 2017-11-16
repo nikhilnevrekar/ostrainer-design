@@ -65,7 +65,7 @@
 							<!-- Features section -->
 							<div class="sc_section" data-animation="animated zoomIn normal">
 								<div class="sc_content content_wrap margin_top_3em_imp margin_bottom_3em_imp sc_features_st1">
-									<div class="columns_wrap sc_columns columns_fluid sc_columns_count_3">
+									<div class="columns_wrap sc_columns columns_fluid sc_columns_count_2">
 										<div class="column-1_3 sc_column_item sc_column_item_1 odd first text_center">
 											<a href="#" class="sc_icon icon-woman-2 sc_icon_bg_menu menu_dark_color font_5em lh_1em"></a>
 											<div class="sc_section font-w_400 margin_top_1em_imp">
@@ -117,9 +117,9 @@
 																		<a href="#">Full Stack Developer Course</a>
 																	</h4>
 																	<div class="post_descr">
-																		<div class="post_price">
+																		<!-- <div class="post_price">
 																			<span class="post_price_value"><strike>Rs. 1,00,000</strike> Rs. 9,999/-</span>
-																		</div>
+																		</div> -->
 																		<div class="post_category">
 																			<a href="#">Web Development</a>
 																		</div>
@@ -160,9 +160,9 @@
 																		<a href="#">Android Developer Course</a>
 																	</h4>
 																	<div class="post_descr">
-																		<div class="post_price">
+																		<!-- <div class="post_price">
 																			<span class="post_price_value"><strike>Rs. 60,000</strike> Rs. 6,999/-</span>
-																		</div>
+																		</div> -->
 																		<div class="post_category">
 																			<a href="#">Mobile</a>
 																		</div>
@@ -202,10 +202,10 @@
 																		<a href="#">PHP Developer Course</a>
 																	</h4>
 																	<div class="post_descr">
-																		<div class="post_price">
+																		<!-- <div class="post_price">
 																			<span class="post_price_value"><strike>Rs. 20,000</strike> Rs. 4,999/-</span>
-																			<!-- <span class="post_price_period">monthly</span> -->
-																		</div>
+																			<span class="post_price_period">monthly</span>
+																		</div> -->
 																		<div class="post_category">
 																			<a href="#">Web Development</a>
 																		</div>
